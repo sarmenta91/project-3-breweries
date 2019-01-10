@@ -1,0 +1,544 @@
+,State,Total Breweries
+0,CA,822
+1,CO,279
+2,WA,262
+3,OR,258
+4,TX,237
+5,FL,224
+6,MI,221
+7,NY,215
+8,PA,203
+9,VA,177
+10,OH,171
+11,NC,160
+12,AZ,152
+13,IL,145
+14,WI,112
+15,IN,110
+16,MA,84
+17,NJ,80
+18,MN,80
+19,MO,77
+20,MD,76
+21,GA,73
+22,TN,58
+23,ME,58
+24,NV,49
+25,IA,41
+26,SC,41
+27,CT,36
+28,NM,33
+29,ID,33
+30,MT,32
+31,NH,31
+32,NE,30
+33,AL,28
+34,KS,27
+35,KY,25
+36,OK,24
+37,DE,24
+38,AK,23
+39,AR,22
+40,LA,22
+41,UT,19
+42,DC,16
+43,HI,15
+44,Pitt,11
+45,RI,9
+46,Mphs,8
+47,Co Spgs,8
+48,WY,8
+49,Orenco,7
+50,WV,7
+51,Fred,7
+52,VT,6
+53,Heritage Rnch,5
+54,Ames Lake,5
+55,Hono,5
+56,Fairhaven,5
+57,Burl,5
+58,SD,5
+59,Paradise Park,4
+60,Lauderdale,4
+61,Mormon Island,4
+62,Wallingford,4
+63,Kampville,4
+64,Veazie,4
+65,Wheat Ridge,4
+66,Grant Road Addition,4
+67,Graniteville,3
+68,Townley,3
+69,Campbell,3
+70,E Farmingdale,3
+71,Elkhurst,3
+72,Nyc,3
+73,Cushing,3
+74,Lyndon,3
+75,Murfreesbr,3
+76,Manor Ridge,3
+77,Hilltop,3
+78,Fairmont,3
+79,Hoffman Estates,3
+80,Weybridge,3
+81,Central Valley,3
+82,Hassan,3
+83,Saint Francis,3
+84,Salt Lake Cty,3
+85,Farmington Municipal Airport,3
+86,Schellville,3
+87,West Easton,3
+88,Beckett Point,3
+89,Brookside,2
+90,Fleming,2
+91,Hermosa,2
+92,Centennial Hts,2
+93,River Hills,2
+94,Cherry Hl Vlg,2
+95,Swiss,2
+96,Blue Springs,2
+97,Center City,2
+98,Lakewood,2
+99,Northgate,2
+100,Cooper City,2
+101,Richmond Heights,2
+102,Hidden Springs,2
+103,Cedar Ravine,2
+104,Echelon,2
+105,Williams Crk,2
+106,Concord Twp,2
+107,Mount Sharp,2
+108,Presidio Of Monterey,2
+109,Los Ranchos De Albuquerque,2
+110,Coddington,2
+111,Pgh,2
+112,Rsm,2
+113,Mettler,2
+114,Wm Penn Anx E,2
+115,Lansdowne,2
+116,Glenwood,2
+117,Chas,2
+118,Oakwood,2
+119,Lakeside,2
+120,Jackson Hole,2
+121,Searles,2
+122,Inverness,2
+123,Gladstone,2
+124,Maysville,2
+125,Tuxedo,2
+126,Donner Lake,2
+127,Pleasant Ridge,2
+128,Chumstick,2
+129,Smc,2
+130,City Of Wb,2
+131,ND,2
+132,Marble Cliff,2
+133,Lardo,2
+134,Beautiful,2
+135,Jelm,2
+136,Brindle Town,2
+137,Queens,2
+138,Gray Gables,2
+139,Quarry,2
+140,Palm Bch Gdns,2
+141,Blumenthal,2
+142,Spfld,2
+143,Burr Oak,2
+144,Pagosa Lakes,2
+145,Glendale,2
+146,East Rockland Key,2
+147,Bayview,2
+148,Kenn,2
+149,Colbyville,2
+150,Jewell,2
+151,Standale,2
+152,Fox Rv Vly Gn,2
+153,Maytown,2
+154,Woodcrest,2
+155,Suntree,2
+156,Columbine Vly,2
+157,Deiblers,2
+158,Pismo Beach,2
+159,Cascade,2
+160,Manila,2
+161,Gville,2
+162,Village Of Wellington,2
+163,Jenneville,2
+164,Jax,2
+165,West Homestead,2
+166,Universal Cty,2
+167,Clarkson Valley,2
+168,Saint Louis Park,2
+169,Oak Park Hts,2
+170,Edmund,2
+171,Chapmantown,2
+172,Fredbg,2
+173,Woodmont Beach,2
+174,Surry,2
+175,Deerfield,2
+176,Marriott-slaterville City,2
+177,Hot Springs National,2
+178,Manhattan,2
+179,Schluersburg,2
+180,Fairland,2
+181,East Patchogue,2
+182,Chupadero,2
+183,South Miami,2
+184,Center Groton,1
+185,Grimville,1
+186,East Glenville,1
+187,N Conway,1
+188,Georgetown,1
+189,Millenbeck,1
+190,Westmont,1
+191,Wake Crossroads,1
+192,Lake Mahopac,1
+193,Copper Queen,1
+194,Lake Edwards,1
+195,East Htfd,1
+196,Grnwood,1
+197,Playa Vista,1
+198,Washington Twp,1
+199,Dardenne Prairie,1
+200,Norland Park,1
+201,Pt Angeles,1
+202,Warehouse Point,1
+203,Bull Creek Village,1
+204,Vint Hill Frm,1
+205,West Bristol,1
+206,Tavistock,1
+207,Cartoogechaye,1
+208,Clearview,1
+209,Peoria,1
+210,Phila,1
+211,Smiley Heights,1
+212,Fresh Pond,1
+213,Halibut Cove,1
+214,New Brighton,1
+215,Dover Township,1
+216,Camp Union,1
+217,Norwood,1
+218,Calabasas Hills,1
+219,E Lewisburg,1
+220,Donegal Springs,1
+221,Woodland Hills,1
+222,Fayetteville,1
+223,New Milford,1
+224,West Bradenton,1
+225,Emery,1
+226,Upper Holland,1
+227,Holiday Shores,1
+228,High,1
+229,Wilder,1
+230,Rollinsville,1
+231,E Cleveland,1
+232,Rancho West,1
+233,Mount Hood-parkdale,1
+234,Tequesta,1
+235,Surfside,1
+236,Glen Riddle,1
+237,Martin,1
+238,So Bend,1
+239,West Hartford,1
+240,Tonawanda,1
+241,Inglenook,1
+242,S Pass City,1
+243,Oak Ridge,1
+244,Mozart,1
+245,D.C.,1
+246,Point O Woods,1
+247,Tysons Corner,1
+248,Town Branch,1
+249,Lake Ronkonkoma Heights,1
+250,Grant Valley,1
+251,Calverton Park,1
+252,Kerrtown,1
+253,Midway,1
+254,Durham,1
+255,Willow Brook,1
+256,Middle Bass,1
+257,Glenallen,1
+258,Clipper Gap,1
+259,West Vail,1
+260,Myrtle,1
+261,Kingsley Field,1
+262,Stannard,1
+263,Oakview,1
+264,Happy Valley,1
+265,North Madison,1
+266,Shawondassee,1
+267,No Potomac,1
+268,North Chesterfield,1
+269,Clarence,1
+270,Circleville,1
+271,Cravat,1
+272,Forest Heights,1
+273,Amelia City,1
+274,Conantville,1
+275,Porter,1
+276,Inman Square,1
+277,Robbinsdale,1
+278,Msla,1
+279,Vadnais Hts,1
+280,Gumbo,1
+281,Minnetnka Mls,1
+282,Johnsburg,1
+283,Wellington,1
+284,Thornton,1
+285,Pawleys Isl,1
+286,Mechanicsburg,1
+287,Fayson Lakes,1
+288,St Augustine,1
+289,Fort Dearborn,1
+290,Esplanade,1
+291,Eastampton Township,1
+292,Pleasant Valley,1
+293,Fallon,1
+294,Brunswick,1
+295,Willow Run,1
+296,Washington Township,1
+297,West End,1
+298,Brgwtr Cors,1
+299,Raugust,1
+300,Woodcliff,1
+301,The Woodlands,1
+302,Westminster,1
+303,Venetian Islands,1
+304,Midtown,1
+305,South Greensboro,1
+306,Olivesburg,1
+307,Canyon Crest,1
+308,East Fayetteville,1
+309,Rehoboth,1
+310,Levan,1
+311,South Chesterfield,1
+312,University Place,1
+313,Outingdale,1
+314,Hanes,1
+315,Loch Alpine,1
+316,Naples,1
+317,Oaklandon,1
+318,Muttontown,1
+319,Glades,1
+320,North Redington Beach,1
+321,Burkhardt,1
+322,Prairie Vlg,1
+323,Wall Township,1
+324,Hicks Crossroads,1
+325,Greens Bayou,1
+326,Bells School,1
+327,Guilford Courthouse National,1
+328,California,1
+329,Mettawa,1
+330,Theological Seminary,1
+331,Wilm,1
+332,West Richland,1
+333,Mere Point,1
+334,Claude,1
+335,Larimers Corner,1
+336,East Somerville,1
+337,Cedar Rock,1
+338,Kattelville,1
+339,Galloway Township,1
+340,Cadys Falls,1
+341,Olympia,1
+342,Timbercrk Cyn,1
+343,Ellisburg,1
+344,North Menomonie,1
+345,So Portland,1
+346,District of Columbia,1
+347,S Fort Myers,1
+348,Maeser,1
+349,East Ashtabula,1
+350,Brownsboro Farm,1
+351,Miracle Mile,1
+352,Trenton,1
+353,National Harbor,1
+354,West Colesville,1
+355,Beaver Creek,1
+356,Blue Ridge Manor,1
+357,Mckownville,1
+358,Lake Slagle,1
+359,N Haven,1
+360,Okc,1
+361,Saint Andrews,1
+362,Huntington,1
+363,Niwot,1
+364,Red Village,1
+365,South Bowie,1
+366,East Norriton,1
+367,Mayfield Hts,1
+368,Upper Stepney,1
+369,Uppr Chichstr,1
+370,Wingate,1
+371,N Egremont,1
+372,Pioneer Square,1
+373,Cliffland,1
+374,Burlngtn City,1
+375,Denver,1
+376,East Haven,1
+377,Highview,1
+378,Richmond Highlands,1
+379,Brewer,1
+380,Guemes,1
+381,W Brattleboro,1
+382,Syr,1
+383,Fairplay,1
+384,Seabrook Island,1
+385,Wriston,1
+386,Park Hills,1
+387,Los Ranchos De Abq,1
+388,West Conshohocken,1
+389,Concord Farr,1
+390,Cherry Hills Village,1
+391,Juanita,1
+392,Pt Canaveral,1
+393,Rahns,1
+394,Derry Church,1
+395,Margate,1
+396,Baldwin Harbor,1
+397,City Of Spokane Valley,1
+398,St Remy,1
+399,Silver Lake,1
+400,Santa Barbara,1
+401,Cascade Twp,1
+402,Crary Mills,1
+403,Baxter,1
+404,Mountain Park,1
+405,Seneca Gdns,1
+406,Firwood,1
+407,Ewing Twp,1
+408,Elnora,1
+409,Parma,1
+410,Magnolia,1
+411,Old Bennington,1
+412,Grand Mound,1
+413,Barrington Hills,1
+414,Joetown,1
+415,Bad River Indian Reservation,1
+416,Crooked Lake,1
+417,Lakevle,1
+418,Dobbins A F B,1
+419,Lima Center,1
+420,Highland Havn,1
+421,Carmel,1
+422,Fort Raleigh City,1
+423,Winchester,1
+424,Mt Lookout,1
+425,Hyak,1
+426,Lake Intervale,1
+427,Hounsfield,1
+428,N Saint Paul,1
+429,Elk Bend,1
+430,Vernon,1
+431,Stanley,1
+432,Tyre,1
+433,Keelers Bay,1
+434,Mariemont,1
+435,North Highland Finance,1
+436,Walden,1
+437,Corbins Corner,1
+438,East Brunswick,1
+439,Wolverine Lake,1
+440,Marshall Ford,1
+441,Laguna Woods,1
+442,Mcchord Afb,1
+443,Lco Commercial Cent,1
+444,South Hampton,1
+445,Taylorsport,1
+446,Tyhee,1
+447,Meskegon,1
+448,Annapolis,1
+449,St Peters,1
+450,Ignacio,1
+451,Brogdon,1
+452,Whitley Heights,1
+453,Peytonsville,1
+454,University Pk,1
+455,Lewisburg,1
+456,Miners Mill,1
+457,Duwamish,1
+458,La Conchita,1
+459,Lindsey,1
+460,Cheverly,1
+461,Canoe Camp,1
+462,Eastside,1
+463,North Miami Beach,1
+464,Dewey,1
+465,Oakford,1
+466,Whately,1
+467,Columbus,1
+468,Nora,1
+469,No Providence,1
+470,Knollwood,1
+471,North Atlanta,1
+472,Killingly,1
+473,Old Town,1
+474,Cut,1
+475,Ny City,1
+476,Third Lake,1
+477,San Marin,1
+478,Peletier,1
+479,Broad Axe,1
+480,Harrisburg,1
+481,Mustang,1
+482,Dockweiler,1
+483,N Richland Hills,1
+484,Plantation,1
+485,Hopeful Heights,1
+486,Oella,1
+487,Forest View,1
+488,The Geysers,1
+489,Ft Macarthur,1
+490,South Zanesville,1
+491,Bluebell,1
+492,Pagosa Springs,1
+493,Star City,1
+494,MS,1
+495,Westwood Lake,1
+496,Houston Heights,1
+497,Prt Jefferson,1
+498,Pot Creek,1
+499,Northport Point,1
+500,Laurel Lake,1
+501,No Hampton,1
+502,Caldwell,1
+503,Ssf,1
+504,Elmira Hts,1
+505,West Dundee,1
+506,Ncsu Student Housing,1
+507,Bamboo,1
+508,Crosby,1
+509,Blue Hill,1
+510,Racine,1
+511,Lemont Fce,1
+512,University Park,1
+513,St Mountain,1
+514,Cimarron Hills,1
+515,Springdale,1
+516,Ilse,1
+517,Manchster Ctr,1
+518,Eagle Point,1
+519,Lenoir Rhyne,1
+520,Colton,1
+521,Bunker Hill,1
+522,Valley View,1
+523,West Hillsborough,1
+524,Wake Village,1
+525,Blk Btte Rnch,1
+526,South Plattsburgh,1
+527,Cumberland,1
+528,Pickwick,1
+529,South Amherst,1
+530,Blue Anchor,1
+531,Deephaven,1
+532,Lwrnce,1
+533,St Croix Falls,1
+534,Michiana Shrs,1
+535,Pamrapo,1
+536,Colorado,1
+537,Port Everglades,1
+538,Sweetwater,1
+539,Crestview Heights,1
+540,Pembroke Pnes,1
+541,Gila Cliff Dwellings Nationa,1
+542,Crossgate,1
